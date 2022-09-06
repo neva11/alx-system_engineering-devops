@@ -1,1 +1,1 @@
-readme for shell permissions folder
+readme file for shell redirections
